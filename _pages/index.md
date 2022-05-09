@@ -10,6 +10,7 @@ permalink: /
 안녕하세요! [분석맨](https://kr.analysisman.com/)의 **디지털 정원(Digital Garden)** 입니다.
 디지털 정원에서 아름다운 **두 번째 뇌(Second Brain)**을 만들어 노트를 연결하고 생각을 확장합니다.
 앞으로 많은 분이 분석맨의 디지털 정원에 들러 좋은 열매를 얻어 가시기를 바랍니다.
+<br>
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
