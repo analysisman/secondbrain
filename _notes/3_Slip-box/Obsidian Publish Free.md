@@ -1,5 +1,4 @@
 ---
-title: fish
 tags: [obsidian, blog]
 ---
 

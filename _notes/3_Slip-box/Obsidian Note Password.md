@@ -1,12 +1,9 @@
-#write #blog #obsidian 
-
+---
+tags: [write #blog #obsidian]
 ---
 
-
-## 옵시디언 -  노트에 암호 걸기
+# 옵시디언 노트에 암호 걸기
 <br>
-
-
 **에버노트(EverNote)**나 **원노트(OneNote)**는 노트에 암호를 걸어서 개인 프라이버시를 지킬 수 있다. 일기 같이 개인적인 감정을 적는다거나 은행 계좌번호, 웹 사이트 암호 등 민감한 개인 정보 등도 암호화할 경우가 있다.  
   
 에버노트는 텍스트를 선택해서 암호화시킬 수 있고, 원노트는 텍스트나 페이지(page) 단위로는 안되고 섹션(section)에 암호를 걸수 있다.  
@@ -44,46 +41,50 @@ macOS의 경우, 기본으로 내장된 **[Disk Utility](https://en.wikipedia.or
 
 ### **▶ 사용 방법**
 
-1. 암호를 걸고자 하는 텍스트를 선택한다.
+1단계. 암호를 걸고자 하는 텍스트를 선택한다.
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEhmPmc7JaUTGW1QhfQRxDIT9Uz7qRSxS8J_pEFo1UJChQSudXzQ58_XFQn6GmoYAF976yyhX1rGPj6pFUSBRHap64_ER-ZrLWmXZhamvEge1J1n5a6OwtAMFNsukNG2Gv0oTPX74xcawORDu9WZC_4wKYUqB3qeJp4JJ06FRUJfT7rhE530DWg3k4PQ=w640-h140)](https://blogger.googleusercontent.com/img/a/AVvXsEhmPmc7JaUTGW1QhfQRxDIT9Uz7qRSxS8J_pEFo1UJChQSudXzQ58_XFQn6GmoYAF976yyhX1rGPj6pFUSBRHap64_ER-ZrLWmXZhamvEge1J1n5a6OwtAMFNsukNG2Gv0oTPX74xcawORDu9WZC_4wKYUqB3qeJp4JJ06FRUJfT7rhE530DWg3k4PQ=s413)
 
   
 
-2. **커맨트 팔레트 열기(Open command palette)**를 실행해서 '**encrypt**'를 타이핑하면 **Meld Encrypt: Encrypt/Decrypt**라 첫 줄에 나온다. 클릭하여 명령을 실행한다.
+2.단계. **커맨트 팔레트 열기(Open command palette)**를 실행해서 '**encrypt**'를 타이핑하면 **Meld Encrypt: Encrypt/Decrypt**라 첫 줄에 나온다. 클릭하여 명령을 실행한다.
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEhEYvBvuSH_JxI_6Iwm37brVsLSaGeCLgqHMokb5C24Ps9737Z58simLNCE-pPvLJUWRFpPu_6Co9HX-tubCKcGa7WArU9HUZDd2_Lhj1ChOB4NhhptEp6XIYIIChvjikAX5ofJKOeSus7DXUMnVXPvrslJfo_YZ3-ffxMbf64y1HAbiWtEOkAXcxq6=w640-h154)](https://blogger.googleusercontent.com/img/a/AVvXsEhEYvBvuSH_JxI_6Iwm37brVsLSaGeCLgqHMokb5C24Ps9737Z58simLNCE-pPvLJUWRFpPu_6Co9HX-tubCKcGa7WArU9HUZDd2_Lhj1ChOB4NhhptEp6XIYIIChvjikAX5ofJKOeSus7DXUMnVXPvrslJfo_YZ3-ffxMbf64y1HAbiWtEOkAXcxq6=s691)
 
   
-3. 사용할 암호를 입력한다.
+3단계. 사용할 암호를 입력한다.
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEjkXLyKzBJSx8jIBZeKoY7ZW8JU7iK9GYUDAgwMlJQPEJ9HCn1HMaYD45-iIuoCgofpusdsHBOSL7Cex19O8dtinosH7f3L1c9QMZ1k5pLAKAQO_aMyKitoY-JxS4BkOuN8amCXuehABdUEC4vCZ96hxZgwvfPZpFyYux59GtoUxrhOIqVeO3RScGIr=w640-h172)](https://blogger.googleusercontent.com/img/a/AVvXsEjkXLyKzBJSx8jIBZeKoY7ZW8JU7iK9GYUDAgwMlJQPEJ9HCn1HMaYD45-iIuoCgofpusdsHBOSL7Cex19O8dtinosH7f3L1c9QMZ1k5pLAKAQO_aMyKitoY-JxS4BkOuN8amCXuehABdUEC4vCZ96hxZgwvfPZpFyYux59GtoUxrhOIqVeO3RScGIr=s553)
 
   
 
-4. 암호 입력 후, 아래와 같이 선택한 텍스트 부분이 암호화된다.
+4단계. 암호 입력 후, 아래와 같이 선택한 텍스트 부분이 암호화된다.
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEhe58p1k2lwSbUWF6Vy53o9W-JT3N9DnWxWIjAloOL30Qh2igUOzLhlEb2yaYvrIfVkDo2tiufPWJyZAFaBNdXjrDnlamPruOnx84P-ZtfiF2kd_2vL55NAQixJOOBEp8w2oxcnZZ5W76NfHRWfjBB3-wUhYEhd1jnTzS6ECTsjDJULvYA_D5N9ihNY=w640-h212)](https://blogger.googleusercontent.com/img/a/AVvXsEhe58p1k2lwSbUWF6Vy53o9W-JT3N9DnWxWIjAloOL30Qh2igUOzLhlEb2yaYvrIfVkDo2tiufPWJyZAFaBNdXjrDnlamPruOnx84P-ZtfiF2kd_2vL55NAQixJOOBEp8w2oxcnZZ5W76NfHRWfjBB3-wUhYEhd1jnTzS6ECTsjDJULvYA_D5N9ihNY=s408)
 
   
-5. 복호화(decrypt)하려면, 암호화된 부분에 커서를 위치하고 커맨트 팔레트에서 암호화할 때와 같이 **Meld Encrypt: Encrypt/Decrypt**를 실행하면 암호를 물어보고, 암호 입력 후 복호화된다.
+5단계. 복호화(decrypt)하려면, 암호화된 부분에 커서를 위치하고 커맨트 팔레트에서 암호화할 때와 같이 **Meld Encrypt: Encrypt/Decrypt**를 실행하면 암호를 물어보고, 암호 입력 후 복호화된다.
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEi4GkZLTCJssRND8bvtk6tiLqgySkksep86l2UWI4SnW3SAJG2IR_R-z7vhfr3pDwh0-NtyPzlp_DdbYlaWxNFZcqpFUMxwdCqvH9Bt_L-xD6tQRYdDwwMpPt9yYOVZwCJEtN4yLGIX5qeSMfds6p7Hoy75zNw0DUacFIDWx5NkOw_zss83xwrqsoRu=w640-h82)](https://blogger.googleusercontent.com/img/a/AVvXsEi4GkZLTCJssRND8bvtk6tiLqgySkksep86l2UWI4SnW3SAJG2IR_R-z7vhfr3pDwh0-NtyPzlp_DdbYlaWxNFZcqpFUMxwdCqvH9Bt_L-xD6tQRYdDwwMpPt9yYOVZwCJEtN4yLGIX5qeSMfds6p7Hoy75zNw0DUacFIDWx5NkOw_zss83xwrqsoRu=s683)
 
   
 
-6. '**Decrypt In-place**'를 클릭하면 에디터에 복호화된 문자가 대체된다.
+6단계. '**Decrypt In-place**'를 클릭하면 에디터에 복호화된 문자가 대체된다.
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEjgjQhYR-KdwPi-E0-s6gV6tPYJ9do0jDlPB0_Q6a08FhfLCX7nqggbQmAxlTSFRQFsBXR83bVbGMgKIOySel4JOlHzWy3Ky-uny1-KVcLkxtWoEWcGoMcHGMhF_JDg4lNACApM01C7U9u1HUOvk293-1FvDZYXmgWr69vNDLN6xv1Lij_lClUfDsxP=w640-h474)](https://blogger.googleusercontent.com/img/a/AVvXsEjgjQhYR-KdwPi-E0-s6gV6tPYJ9do0jDlPB0_Q6a08FhfLCX7nqggbQmAxlTSFRQFsBXR83bVbGMgKIOySel4JOlHzWy3Ky-uny1-KVcLkxtWoEWcGoMcHGMhF_JDg4lNACApM01C7U9u1HUOvk293-1FvDZYXmgWr69vNDLN6xv1Lij_lClUfDsxP=s552)
 
   
 
-7. **단축키(Hotkeys)**에서 'encrypt'로 검색하여 나오는 '**Melt Encrypt**' 리스트를 선택해서 단축키를 지정하면 편하게 사용할 수 있다. 분석맨은 '**Meld Encrypt: Encrypt/Decrypt Whote Note**'에 단축키를 지정하여 전체 노트를 암호화할 수 있게 했다.
+7단계. **단축키(Hotkeys)**에서 'encrypt'로 검색하여 나오는 '**Melt Encrypt**' 리스트를 선택해서 단축키를 지정하면 편하게 사용할 수 있다. 분석맨은 '**Meld Encrypt: Encrypt/Decrypt Whote Note**'에 단축키를 지정하여 전체 노트를 암호화할 수 있게 했다.
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEju2IepcWQ0GF0cWVZMxmHXhbFxvQHzoOFc_Utax36WnMbHmjCZi9EgdR6HpZCHwYqhE9WvwD8rwpZ1zvFt6xz-QIoFFA1cbxZJ4E87Zdm56UPkNrgOtBRV81PwfdGOFnlO_b8T6ygs-h1DmYtS7eKOyNd8u6RpRSX9AfrUlJYZ9DanWDHGb2VOwuNz=w640-h202)](https://blogger.googleusercontent.com/img/a/AVvXsEju2IepcWQ0GF0cWVZMxmHXhbFxvQHzoOFc_Utax36WnMbHmjCZi9EgdR6HpZCHwYqhE9WvwD8rwpZ1zvFt6xz-QIoFFA1cbxZJ4E87Zdm56UPkNrgOtBRV81PwfdGOFnlO_b8T6ygs-h1DmYtS7eKOyNd8u6RpRSX9AfrUlJYZ9DanWDHGb2VOwuNz=s728)
 
 
-### 참고 링크    
+## 참고 링크
 [Password protect/lock folder](https://forum.obsidian.md/t/password-protect-lock-folder/1754)  
 [Local File Encryption of Obsidian mark down files](https://forum.obsidian.md/t/local-file-encryption-of-obsidian-mark-down-files/24630)  
 [How to Password Protect Folders on Mac](https://www.maketecheasier.com/password-protect-folders-mac/)
+
+
+## 연결 문서
+[[Obsidian Publish Free]]
