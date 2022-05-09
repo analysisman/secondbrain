@@ -1,5 +1,6 @@
 ---
 tags: [write, blog, obsidian]
+title: 옵시디언 노트에 암호 걸기
 ---
 
 # 옵시디언 노트에 암호 걸기
