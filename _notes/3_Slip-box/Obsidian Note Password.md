@@ -1,5 +1,5 @@
 ---
-tags: [write #blog #obsidian]
+tags: [write, blog, obsidian]
 ---
 
 # 옵시디언 노트에 암호 걸기
