@@ -6,4 +6,4 @@ title: 분석맨의 디지털 정원(Digital Garden)
 앞으로 풍성한 열매를 맺어 많은 분께 나누어 드리고 싶습니다.
 
 ---
-[[_Index_of_Slip-box]]
+[[_Index_Slip-box]]
