@@ -12,7 +12,7 @@ permalink: /
 앞으로 많은 분이 분석맨의 디지털 정원에 들러 좋은 열매를 얻어 가시기를 바랍니다.
 
 ※ 이곳은 무료 퍼블리시 샘플 사이트입니다. 분석맨의 ‘**두 번째 뇌**’ 콘텐츠는 아래 옵시디언 퍼블리시 사이트에 업데이트됩니다.
-https://secondbrain.analysisman.com/
+[[분석맨의 '두 번째 뇌'](https://secondbrain.analysisman.com/)
 <br>
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
